@@ -1,8 +1,8 @@
 # SatishKumar
 ## Current
-Currently iam pursuing my Masters degree in Applied Computer Science. And iam going to graduate on December 2020.
+Currently I am pursuing my Masters degree in Applied Computer Science. And I am going to graduate in December 2020.
 ## Background
-I came from hyderabad which was located in Southern part of India. I completed by Bachelors degree in MVSR Engineering College.I have a 2 years of experience as a front end web developer in Accenture.
+I am from hyderabad which was located in state of Telangana. I completed by Bachelors degree in MVSR Engineering College and I have a 2 years of experience as a front end web developer in Accenture.
 ## Plans
 My future plan is to become a full stack web developer.
 ## Links
