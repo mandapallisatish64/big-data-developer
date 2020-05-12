@@ -6,5 +6,5 @@ I came from hyderabad which was located in Southern part of India. I completed b
 ## Plans
 My future plan is to become a full stack web developer.
 ## Links
-[Linkedin Profile](https://www.linkedin.com/in/satish-kumar-b4403811b/)
-[Github](https://github.com/mandapallisatish64)
+* [Linkedin Profile](https://www.linkedin.com/in/satish-kumar-b4403811b/)
+* [Github](https://github.com/mandapallisatish64)
